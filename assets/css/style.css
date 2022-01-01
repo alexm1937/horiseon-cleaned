@@ -34,14 +34,14 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-a {
+a { /* styles links */
     color: #ffffff;
     text-decoration: none;
 }
-p {
+p { /* styles standard p text */
     font-size: 16px;
 }
-.hero {
+.hero { /* page main landing image */
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -57,19 +57,19 @@ p {
     float: right;
     margin-left: 25px;
 }
-.content {
+.content { /* main content section below landing image */
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-.aside {
+.aside { /* side div containing smaller sections */
     margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 .asidedivs {
